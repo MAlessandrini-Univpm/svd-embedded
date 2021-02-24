@@ -1,2 +1,2 @@
 # svd-embedded
-SVD algorithms for use in embedded MCUs (Cortex-M)
+SVD algorithms for embedded MCUs (Cortex-M)
